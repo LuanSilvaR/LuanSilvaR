@@ -9,6 +9,11 @@ Sou analista de sistemas, trabalho com desenvolvimento de sofware, atualmente co
 <br>
 
 ## Tecnologias
+
+
+## Certificações
+
+<!--
 <div style="display: inline-block;"> <br>
     <img  align="center" alt="Html" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
     <img  align="center" alt="CSS" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
@@ -30,7 +35,7 @@ Sou analista de sistemas, trabalho com desenvolvimento de sofware, atualmente co
 </div>
 
 
-<!--
+
 <div align="center" dir="auto">
   <a href="https://github.com/LuanSilvaR/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanSilvaR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
