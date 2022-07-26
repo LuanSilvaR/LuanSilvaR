@@ -1,3 +1,4 @@
+
 ## Olá seja bem vindo ao meu Github 👋
 Sou analista de sistemas, trabalho com desenvolvimento de sofware, atualmente com ênfase na plataforma Low code Outsystems, HTML 5, JavaScript, SQL, Web Api e PHP e Python.
 <br>
@@ -11,7 +12,20 @@ Sou analista de sistemas, trabalho com desenvolvimento de sofware, atualmente co
 ## Tecnologias
 
 
+<!--
 ## Certificações
+
+<div style="display: inline-block;"> <br>
+
+<img align="center" alt="Reactive Developer ASSOCIATE" width="100" src="https://pbs.twimg.com/media/EyyEDsiWYAYwL26?format=png&name=small">
+<img align="center" alt="Reactive Developer ASSOCIATE" width="100" src="https://www.mgupta.in/wp-content/uploads/2021/11/OS_MobDev2.png">
+<img align="center" alt="Reactive Developer ASSOCIATE" width="140" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png">
+
+</div>
+-->
+
+
+
 
 <!--
 <div style="display: inline-block;"> <br>
