@@ -25,22 +25,22 @@ Sou analista de sistemas, trabalho com desenvolvimento de sofware, atualmente co
     <img  align="center" alt="Mysql" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img  align="center" alt="SQL SERVER" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
     <img  align="center" alt="ORACLE" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-    <img  align="center" alt="Amazon webservices" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
     <img  align="center" alt="Azure" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
     <img  align="center" alt="Google Cloud" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
 </div>
 
 
 ## Certificações
-
+<!--
 <div style="display: inline-block;"> <br>
 
+    
 <img align="center" alt="Reactive Developer ASSOCIATE" width="100" src="https://pbs.twimg.com/media/EyyEDsiWYAYwL26?format=png&name=small">
 <img align="center" alt="Reactive Developer ASSOCIATE" width="100" src="https://www.mgupta.in/wp-content/uploads/2021/11/OS_MobDev2.png">
 <img align="center" alt="Reactive Developer ASSOCIATE" width="140" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png">
 
 </div>
-
+-->
 
 
 
