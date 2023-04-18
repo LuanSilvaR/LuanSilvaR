@@ -4,7 +4,7 @@ Sou analista de sistemas, trabalho com desenvolvimento de sofware, atualmente co
 <br>
 🔭 Atualmente trabalho na Exercito Brasileiro, no Departamento Geral de Pessoal.<br>
 🌱 Tenho estudado para me aventuar na certificação AWS Certified Cloud Practitioner.<br>
-🤔 Posso colaborar com conhecimentos sobre programação Java, PHP e Phyton.<br>
+🤔 Posso colaborar com conhecimentos sobre programação Java, PHP, Cobol e Phyton.<br>
 📫 Meu contato: https://www.linkedin.com/in/luan-da-silva-rocha-43855352/<br>
 
 <br>
