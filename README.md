@@ -4,11 +4,12 @@
 - 🌱 Estudando realizando um curso no senai de Full Stack de 671 hrs
 
 
-<div align="center">
-  <a href="https://github.com/LuanSilvaR">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luansilvar&show_icons=true&theme=radical"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansilvar&layout=compact&theme=radical"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luansilvar&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luansilvar&repo=convoychat" />
+</a>
 
 ##
 <div align="center" style="display: inline_block"><br>
