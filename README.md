@@ -1,15 +1,9 @@
 ### Olá Pessoal, sou o programador Luan da Silva Rocha, sejam muito bem-vindos ao meu GitHub!!! 👋
 
-- 🔭 No momento eu estou trabalhando com desenvolvimento Outsystems e programação Java e PHP
-- 🌱 Estudando realizando um curso no senai de Full Stack de 671 hrs
+- 🔭 No momento eu estou trabalhando com desenvolvimento Outsystems e Devops
+- 🌱 Pós-graduando em Engenharia Devops - IFMT
+- 🌱 Pós-graduando em Gestão e Governança Publica - UFMS
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luansilvar&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luansilvar&repo=convoychat" />
-</a>
 
 ##
 <div align="center" style="display: inline_block"><br>
