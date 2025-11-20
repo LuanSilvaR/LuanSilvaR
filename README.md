@@ -39,9 +39,9 @@
   <div align="center">
   <h2>🎓 Formação Acadêmica e Certificações🎓</h2>
  💻  Tecnologo em Analise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul<br>
- 💻  Pós graduado em Analise de Sistemas <br><br
- ⚙️  Pós-graduando em Engenharia Devops - IFMT <br><br
- ⚙️  Pós-graduando em Gestão e Governança Publica - UFMS<br><br
+ 💻  Pós graduado em Analise de Sistemas <br>
+ ⚙️  Pós-graduando em Engenharia Devops - IFMT <br>
+ ⚙️  Pós-graduando em Gestão e Governança Publica - UFMS <br>
                                                  
 <!--
     
@@ -49,7 +49,8 @@
   ##
   
   <div align="center">
- 
-![snake gif](https://github.com/LuanSilvaR/LuanSilvaR/blob/output/github-contribution-grid-snake.svg)
+  <img  align="center" alt="Associate Developer O11" height="100" height="100" src="https://cdn.prod.website-files.com/60a67935233c0d08098719d3/682c4447691685aa251f243b_67d46291dd9ec061e178da24_outsystems-certification-o11-associate-dev-hiRes.png">
+  <img  align="center" alt="Associate Developer ODC" height="100" height="100" src="https://cdn.prod.website-files.com/60a67935233c0d08098719d3/682c44474fa34cd65ffac199_67d45fe487d23b2b844942c5_outsystems-certification-odc-associate-dev-hiRes.png">
+
   
   </div>
