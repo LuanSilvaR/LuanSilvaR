@@ -53,14 +53,14 @@ Abaixo estão as tecnologias que domino ou estou ativamente estudando.
 * **Pós-Graduação (Concluída):** Análise de Sistemas
 * **Graduação:** Tecnólogo em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
 
-### Certificações Profissionais
 
-<div align="left">
-  <img  align="center" alt="Associate Developer O11" height="100" height="100" src="https://cdn.prod.website-files.com/60a67935233c0d08098719d3/682c4447691685aa251f243b_67d46291dd9ec061e178da24_outsystems-certification-o11-associate-dev-hiRes.png">
-  <img  align="center" alt="Associate Developer ODC" height="100" height="100" src="https://cdn.prod.website-files.com/60a67935233c0d08098719d3/682c44474fa34cd65ffac199_67d45fe487d23b2b844942c5_outsystems-certification-odc-associate-dev-hiRes.png">
-  </div>
+## 🏅 Certificações OutSystems 
 
----
+<p>
+  <img align="center" alt="OutSystems Developer Associate O11" height="100" src="https://cdn.prod.website-files.com/60a67935233c0d08098719d3/682c4447691685aa251f243b_67d46291dd9ec061e178da24_outsystems-certification-o11-associate-dev-hiRes.png">
+  &nbsp;&nbsp;&nbsp;&nbsp; <img align="center" alt="OutSystems Developer Associate ODC" height="100" src="https://cdn.prod.website-files.com/60a67935233c0d08098719d3/682c44474fa34cd65ffac199_67d45fe487d23b2b844942c5_outsystems-certification-odc-associate-dev-hiRes.png">
+</p>
+
 
 ## 📫 Conecte-se comigo!
 
