@@ -23,8 +23,10 @@ Abaixo estão as tecnologias que domino ou estou ativamente estudando.
 | Categoria | Habilidades Principais |
 | :--- | :--- |
 | **Low-Code/Plataformas** | OutSystems (O11 e ODC) e WordPress |
+<!-- 
 | **DevOps/Infra** | Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions, Azure DevOps, etc.), Terraform, Shell Script, N8N |
-| **Linguagens (Gerais)** | SQL, PHP, e Python |
+ -->
+| **Linguagens (Gerais)** | SQL e Python |
 | **SGBDs** | SQL Server, PostgreSQL, MySQL e Oracle |
 
 ### Meu Tech Stack em Badges
@@ -50,7 +52,6 @@ Abaixo estão as tecnologias que domino ou estou ativamente estudando.
 
 * **Pós-Graduação (Em andamento):** Engenharia DevOps - IFMT
 * **Pós-Graduação (Em andamento):** Gestão e Governança Pública - UFMS
-* **Pós-Graduação (Concluída):** Análise de Sistemas
 * **Graduação:** Tecnólogo em Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
 
 
